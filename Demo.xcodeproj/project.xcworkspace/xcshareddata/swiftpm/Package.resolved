@@ -1,0 +1,15 @@
+{
+  "originHash" : "90ee9321a3acf581f45ec139c341f24e4893a518ae8be80c0ca351382b081ee6",
+  "pins" : [
+    {
+      "identity" : "user-enforcement-sync-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajatslakhina/user-enforcement-sync-kit.git",
+      "state" : {
+        "revision" : "c92165d0207c2f507f5b811b2137802d40172f47",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
